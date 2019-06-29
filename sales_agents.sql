@@ -1,1 +1,1 @@
-SELECT * FROM Employee WHERE Title ='Sales Support Agent';
+SELECT  Employee WHERE Title ='Sales Support Agent';
